@@ -15,7 +15,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Emmanuel+Torres+%E2%80%94+Full-stack+Developer%3BJava+%7C+Spring+Boot+%7C+NestJS+%7C+React%3BMicroservicios+%E2%80%A2+Arquitectura+Hexagonal+%E2%80%A2+Clean+Code%3BCafe+-+Retro+-+Music+-+Vibe+-+Chill+-+Tecnologia" alt="Banner animado con perfil Full-stack">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Torrxsrpo&style=flat&color=f78ca0&label=profile+views" alt="profile views">
 
 </div>
 
