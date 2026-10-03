@@ -1,0 +1,12 @@
+{
+  "title": "Full-stack Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and rerun scripts/radar.py to redraw the radar.",
+  "axes": [
+    { "label": "Java & Spring Boot", "value": 85 },
+    { "label": "NestJS & APIs", "value": 80 },
+    { "label": "Arquitectura limpia", "value": 80 },
+    { "label": "React & Tailwind", "value": 75 },
+    { "label": "Bases de datos", "value": 78 },
+    { "label": "AWS & Docker", "value": 70 }
+  ]
+}
